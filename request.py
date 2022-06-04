@@ -21,4 +21,4 @@ def post():
 
 
 if __name__ == '__main__':
-	app.run(debug=True) #adi endpoint adi nenu 
+	app.run(debug=True)
